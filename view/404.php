@@ -10,7 +10,7 @@
 <body>
     <h1>404</h1>
     <p><a href="<?php echo $mappa . "/valutavalto" ?>">Pénzváltó</a></p>
-    <p><a href="<?php echo $mappa . "/mertekegysegvalto" ?>">Mertekegységváltó</a></p>
+    <p><a href="<?php echo $mappa . "/hosszusagValto" ?>">Mertekegységváltó</a></p>
 
     <img src="public/kep.jfif" alt="">
 </body>
