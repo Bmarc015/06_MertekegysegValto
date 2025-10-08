@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1><a href="<?php echo $mappa . "/home" ?>">Főmenü</a></h1>
+    <h1><a href="<?php echo $mappa . "/" ?>">Főmenü</a></h1>
     <div class="container mt-5 d-flex justify-content-center">
         <div class="card" style="width: 28rem;">
             <div class="card-body">
