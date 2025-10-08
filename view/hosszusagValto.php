@@ -13,7 +13,7 @@
 
         <div class="card" style="width: 28rem;">
             <div class="card-body">
-                <h1 class="card-title mb-3">asd</h1>
+                <h1 class="card-title mb-3">Hosszuságváltó</h1>
                 <form action="">
                     <!-- Mennyit -->
                     <div class="mt-3 d-flex align-items-center">
