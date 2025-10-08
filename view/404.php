@@ -8,7 +8,6 @@
     <h1>404 oldal</h1>
 </head>
 <body>
-    <h1>404</h1>
     <p><a href="<?php echo $mappa . "/valutavalto" ?>">Pénzváltó</a></p>
     <p><a href="<?php echo $mappa . "/hosszusagValto" ?>">Mertekegységváltó</a></p>
 

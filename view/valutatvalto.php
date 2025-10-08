@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <p><a href="<?php echo $mappa . "/" ?>">Főmenü</a></p>
     <div class="container mt-5 d-flex justify-content-center">
 
         <div class="card" style="width: 28rem;">
